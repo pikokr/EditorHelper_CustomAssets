@@ -1,23 +1,22 @@
-{"data": [
-        {
-            "name": "EditorHelper Example Pack",
-            "author": "PERIOT",
-            "description": "EditorHelper Example Asset Pack.",
-            "contents": [
-                "Ruby.png",
-                "Pearl.png",
-                "Sapphire.png"
-            ]
-        },
-        {
-        "name": "EditorHelper Example Pack #2",
-            "author": "PERIOT",
-            "description": "Second EditorHelper Example Asset Pack.",
-            "contents": [
-                "Ruby.png",
-                "Pearl.png",
-                "Sapphire.png"
-            ]
-        }
-    ]
-}
+[
+	{
+		"name": "EditorHelper Example Pack",
+		"author": "PERIOT",
+		"description": "EditorHelper Example Asset Pack.",
+		"contents": [
+			"Ruby.png",
+			"Pearl.png",
+			"Sapphire.png"
+		]
+	},
+	{
+	"name": "EditorHelper Example Pack #2",
+		"author": "PERIOT",
+		"description": "Second EditorHelper Example Asset Pack.",
+		"contents": [
+			"Ruby.png",
+			"Pearl.png",
+			"Sapphire.png"
+		]
+	}
+]
