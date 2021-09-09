@@ -3,6 +3,7 @@
 		"name": "EditorHelper Example Pack",
 		"author": "PERIOT",
 		"description": "EditorHelper Example Asset Pack.",
+		"descriptionLong": "EditorHelper Example Asset Pack.",
 		"contents": [
 			"Ruby.png",
 			"Pearl.png",
@@ -12,7 +13,8 @@
 	{
 	"name": "CustomTilePack1.0",
 		"author": "PowerFactory",
-		"description": "안녕하세요, PowerFactory 입니다.\n\n먼저, 저의 CustomTilePack v1.0 을 이용해 주셔서 감사합니다.\n\n[ 세부 사항 ]\n\n• 모든 파일은 수정이 가능합니다.\n\n• psdSheet.psd 는 포토샵 용 파일입니다.\n - 더 세부적인 수정을 하고 싶으신 분을 위해 첨부했습니다.\n\n• Sheets 폴더에는 타일 별로 나누지 않은 통짜 파일이 들어있습니다.\n - 해상도는 200px * 2600px 입니다.\n\n• Canvas Tiles 폴더에는 꽉찬 기본 타일이 들어있습니다.\n - 각각 해상도는 200px * 200px 입니다. [1]\n\n• Neon Outlines 폴더에는 기본 타일 위에 올려 사용할 수 있는 네온 테두리 타일이 들어있습니다.\n - 각각 해상도는 200px * 200px 입니다. [1]\n - 테두리의 두께는 5px 입니다.\n\n• Basic Outlines 폴더에는 기본 타일 위에 올려 사용할 수 있는 기본 테두리 타일이 들어있습니다.\n - 각각 해상도는 200px * 200px 입니다. [1]\n - 테두리의 두께는 7px 입니다.\n\n[1] 얼불춤 커스텀 내에서 크기 조절 없이 사용하실 수 있습니다.\n\n[ 사용 조건 ]\n• ADOFAI, Rhythm Doctor 등 7BG 게임 커스텀 내에서 사용할 경우 (비상업적)\n - 사용 후, PowerFactory#1872 에 DM 으로 사용 통보 바람.\n\n• 다른 게임이나 상업적으로 이용할 경우\n - PowerFactory#1872 에 DM 으로 문의 바람.",
+		"description": "안녕하세요, PowerFactory 입니다.\n먼저, 저의 CustomTilePack v1.0 을 이용해 주셔서 감사합니다.",
+		"descriptionLong": "안녕하세요, PowerFactory 입니다.\n\n먼저, 저의 CustomTilePack v1.0 을 이용해 주셔서 감사합니다.\n\n[ 세부 사항 ]\n\n• 모든 파일은 수정이 가능합니다.\n\n• psdSheet.psd 는 포토샵 용 파일입니다.\n - 더 세부적인 수정을 하고 싶으신 분을 위해 첨부했습니다.\n\n• Sheets 폴더에는 타일 별로 나누지 않은 통짜 파일이 들어있습니다.\n - 해상도는 200px * 2600px 입니다.\n\n• Canvas Tiles 폴더에는 꽉찬 기본 타일이 들어있습니다.\n - 각각 해상도는 200px * 200px 입니다. [1]\n\n• Neon Outlines 폴더에는 기본 타일 위에 올려 사용할 수 있는 네온 테두리 타일이 들어있습니다.\n - 각각 해상도는 200px * 200px 입니다. [1]\n - 테두리의 두께는 5px 입니다.\n\n• Basic Outlines 폴더에는 기본 타일 위에 올려 사용할 수 있는 기본 테두리 타일이 들어있습니다.\n - 각각 해상도는 200px * 200px 입니다. [1]\n - 테두리의 두께는 7px 입니다.\n\n[1] 얼불춤 커스텀 내에서 크기 조절 없이 사용하실 수 있습니다.\n\n[ 사용 조건 ]\n• ADOFAI, Rhythm Doctor 등 7BG 게임 커스텀 내에서 사용할 경우 (비상업적)\n - 사용 후, PowerFactory#1872 에 DM 으로 사용 통보 바람.\n\n• 다른 게임이나 상업적으로 이용할 경우\n - PowerFactory#1872 에 DM 으로 문의 바람.",
 		"contents": [
 			"preview.png",
 			"psdSheet.psd",
